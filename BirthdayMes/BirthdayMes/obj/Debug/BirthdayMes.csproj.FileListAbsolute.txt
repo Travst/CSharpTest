@@ -1,0 +1,9 @@
+D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\bin\Debug\BirthdayMes.exe.config
+D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\bin\Debug\BirthdayMes.exe
+D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\bin\Debug\BirthdayMes.pdb
+D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.csprojResolveAssemblyReference.cache
+D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.Form1.resources
+D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.Properties.Resources.resources
+D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.csproj.GenerateResource.Cache
+D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.exe
+D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.pdb
