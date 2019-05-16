@@ -7,3 +7,12 @@ D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.
 D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.csproj.GenerateResource.Cache
 D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.exe
 D:\朕\Visual Studio 2015Projects\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.pdb
+D:\myGit\TestWork\BirthdayMes\BirthdayMes\bin\Debug\BirthdayMes.exe.config
+D:\myGit\TestWork\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.exe
+D:\myGit\TestWork\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.pdb
+D:\myGit\TestWork\BirthdayMes\BirthdayMes\bin\Debug\BirthdayMes.exe
+D:\myGit\TestWork\BirthdayMes\BirthdayMes\bin\Debug\BirthdayMes.pdb
+D:\myGit\TestWork\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.csprojResolveAssemblyReference.cache
+D:\myGit\TestWork\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.Form1.resources
+D:\myGit\TestWork\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.Properties.Resources.resources
+D:\myGit\TestWork\BirthdayMes\BirthdayMes\obj\Debug\BirthdayMes.csproj.GenerateResource.Cache

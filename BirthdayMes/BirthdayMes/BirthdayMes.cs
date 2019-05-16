@@ -41,7 +41,7 @@ namespace BirthdayMes
 
     public class BirthdayMessage
     {
-        private static bool MessageDB(string connstr, DataTable dt)
+        private static bool writeMessage(string connstr, DataTable dt)
         {
             //初始化待写入table数据
             string message = "【东莞农行】亲爱的X，今天是您的生日。东莞农行的发展，离不开您的努力和付出。"
@@ -97,7 +97,7 @@ namespace BirthdayMes
             DataTable table = BirthdayMes.ExcuteQuery(connstr, sql);
             if (table == null)
                 result = false;
-            else if (MessageDB(connstr, table) == true)
+            else if (writeMessage(connstr, table) == true)
                 result = true;
             return result;
         }
